@@ -9,4 +9,5 @@ My name is Renice Owino I am a fullstack Web developer & a STEAM educator.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: The QWERTY keyboard was invented to slow down typing.
 - ![Renice's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renice-Owino&show_icons=true&theme=dark)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renice-Owino&langs_count=8)](https://github.com/Renice-Owino/github-readme-stats)
 
