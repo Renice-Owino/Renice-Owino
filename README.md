@@ -10,7 +10,7 @@ My name is Renice Owino I am a fullstack Web developer & a STEAM educator.
 - ⚡ Fun fact: The QWERTY keyboard was invented to slow down typing.
 ![Renice's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renice-Owino&show_icons=true&theme=dark)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Renice-Owino&repo=wakanda-girls"" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Renice-Owino&repo=wakanda-girls" />
 </a>
 <a href="https://github.com/Renice-Owino/wakanda-girls">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Renice-Owino&repo=wakanda-girls" />
