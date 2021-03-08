@@ -12,7 +12,7 @@ My name is Renice Owino I am a fullstack Web developer & a STEAM educator.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Renice-Owino&repo=wakanda-girls" />
 </a>
-<a href="https://github.com/Renice-Owino/wakanda-girls">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Renice-Owino&repo=wakanda-girls" />
+<a href="https://github.com/Renice-Owino/Renice-Owino.github.io ">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Renice-Owino&repo=Renice-Owino.github.io " />
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renice-Owino&langs_count=4)](https://github.com/rRenice-Owino/github-readme-stats)
+
