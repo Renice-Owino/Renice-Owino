@@ -4,7 +4,7 @@ My name is Renice Owino I am a fullstack Web developer & a STEAM educator.
 - 🌱 I’m currently learning nuxtjs & Vuejs
 - 👯 I’m looking to collaborate on any fun project
 - 🤔 I’m looking for help with React Js
-- 💬 Ask me anything 
+- 💬 Ask me anything about anything
 - 📫 How to reach me: reniceo18@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: The QWERTY keyboard was invented to slow down typing.
