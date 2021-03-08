@@ -15,5 +15,4 @@ My name is Renice Owino I am a fullstack Web developer & a STEAM educator.
 <a href="https://github.com/Renice-Owino/wakanda-girls">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Renice-Owino&repo=wakanda-girls" />
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renice-Owino&layout=compact)](https://github.com/Renice-Owino/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renice-Owino&langs_count=4)](https://github.com/rRenice-Owino/github-readme-stats)
